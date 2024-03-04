@@ -1,0 +1,57 @@
+body{
+    background-color:bisque;
+}
+.image{
+    height: 900px;
+    width: 1330px;
+}
+
+C{
+    height: 300px;
+    width: 500px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color:cornflowerblue;
+}
+
+.bloc{
+    margin-top: 15px;
+}
+
+header{
+    background-color:midnightblue;
+    height: 100px;
+    width: 1330px;
+}
+.accueil{
+    color:white;
+    text-align: center;
+}
+
+.lien{
+    text-align: center;
+}
+
+.space{
+    margin-left: 15px;
+}
+
+.dest{
+    margin-top: 20px;
+}
+
+
+.affichage{
+    display: flex;
+}
+
+footer{
+    display: flex;
+    margin-top: 60px;
+    background-color:midnightblue;
+    color: white;
+    margin-bottom: 30px;
+}
